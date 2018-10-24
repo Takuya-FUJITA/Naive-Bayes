@@ -1,5 +1,4 @@
 プログラム実行手順
-
 1. stopwords_trans.py
 2. naive_bayes.py
 

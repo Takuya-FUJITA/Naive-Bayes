@@ -1,12 +1,12 @@
-/*
-!/MANUAL.txt
-
 # データはgit で管理しない
-#news20*
-#train.csv
-#test.csv
-#/Learning_Data_List/*
-#/Make_Data/*
-#/Noun_only/*
-#/Word_Frequency/*
-#!/Word_Frequency/csv_data/guerrilla_collect.py
+news20*
+train.csv
+test.csv
+/Learning_Data_List/*
+/Make_Data/*
+/Noun_only/*
+/Word_Frequency/*
+!/Word_Frequency/csv_data/guerrilla_collect.py
+
+.DS_Store
+*.swp
