@@ -1,11 +1,11 @@
 # データはgit で管理しない
 news20*
-train.csv
-test.csv
+*.csv
 /Learning_Data_List/*
 /Make_Data/*
-/Noun_only/*
-/Word_Frequency/*
+#/Noun_only/*
+/Word_Frequency/Frequency_List/*
+/Word_Frequency/csv_data/*
 !/Word_Frequency/csv_data/guerrilla_collect.py
 
 .DS_Store

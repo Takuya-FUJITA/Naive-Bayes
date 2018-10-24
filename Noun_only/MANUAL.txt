@@ -1,0 +1,5 @@
+プログラムの実行の流れ
+conv_format.py
+conv_noun.py			#22行目は適宜変更する
+connect_words.py
+naive_bayes.py
