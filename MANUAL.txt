@@ -1,0 +1,7 @@
+プログラム実行手順
+
+1. stopwords_trans.py
+2. naive_bayes.py
+
+頻出する単語を見る場合
+count_disp.py
